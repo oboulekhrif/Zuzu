@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(124, 124, 124, 0.473);
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+}
+
+.pull-right img-thumbnail {
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.header-row {
+    margin-top: 20px;
+}
+
+
+.navbar {
+    margin-bottom: 0;
+}
